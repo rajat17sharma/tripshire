@@ -2,7 +2,7 @@
 #signup
 {	
 	 height: 100%;
-    width: 30%;
+    width: 20%;
     background-image:url("image.jpg") ;
     position: relative;
     float: left;
@@ -46,7 +46,7 @@
 
 @keyframes signupanimation
 {
-	100%{background-position: 80%;margin-left: 80%}
+	100%{background-position: 70%;margin-left: 70%}
 	0%{background-position: 0px;margin-left: 0px;}
 
 }

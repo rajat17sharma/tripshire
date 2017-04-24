@@ -5,7 +5,7 @@ body{
 #signupdetails
 {
  	height: 80%;
-    width: 35%;
+    width: 30%;
     margin-left: 50%;
     margin-top: 3%;
     float: right;
@@ -42,10 +42,10 @@ body{
 }
 
 #signupdetails a{
-	font-size:30px; 
+	font-size:20px; 
 	margin-left: 27%;
 	border:  5px solid black;
-	border-radius: 55px;
+	border-radius: 35px;
 	text-decoration: none;
 }
 

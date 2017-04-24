@@ -2,7 +2,7 @@
 {
 
     height: 80%;
-    width: 35%;
+    width: 30%;
     margin-left: 23%;
     margin-top: 3%;
     /*background-color: green;*/
@@ -42,8 +42,8 @@ text-decoration: underline;
 }
 
 #logindetails a{
-    font-size:30px; 
-    margin-left: 20%;
+    font-size:20px; 
+    margin-left: 28%;
     border:  5px solid black;
     border-radius: 55px;
     text-decoration: none;

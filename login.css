@@ -1,7 +1,7 @@
 #login
 {	
 	height: 100%;
-	width: 30%;
+	width: 20%;
 	/*background-color: red;*/
 	margin-left: 80%;
 	float: right;
@@ -41,6 +41,6 @@
 }
 
 @keyframes loginanimate{
-	0%{background-position: 80%;margin-left: 80%}
+	0%{background-position: 70%;margin-left: 70%}
 	100%{background-position:0%;margin-left:0% }
 }
