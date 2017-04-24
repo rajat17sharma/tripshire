@@ -27,7 +27,7 @@ $(document).ready(function() {
 			$("#signup").css("visibility", "initial");
 			$("#logindetails").css("visibility", "hidden");
 			$("#signupdetails").css("visibility", "initial");
-			location.reload();
+			// location.reload();
 
 		},1000);
 
