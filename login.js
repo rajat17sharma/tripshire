@@ -27,11 +27,13 @@ $(document).ready(function() {
 			$("#signup").css("visibility", "initial");
 			$("#logindetails").css("visibility", "hidden");
 			$("#signupdetails").css("visibility", "initial");
+			location.reload();
 
 		},1000);
 
 		$("#login").css("animation","loginanimate 1s 0s");
 		$("#logindetails").css("animation","logindetailsanimate 1s 0s");
+
 
 	});
 
